@@ -28,5 +28,5 @@ You can accurately calculate the Energy Spectrum of the material by using Pertur
 <img src="/images/12.png" alt="matrices" width="500"/>
 </p>
 
-This is evidence that rotationally symmetric materials might be good superconductors, but it takes a lot of work to actually create the material and verify this. 
+This is evidence that rotationally symmetric TIs might make good superconductors, but it would take a lot of work to actually grow the material and verify this. 
 
