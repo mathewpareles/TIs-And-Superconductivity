@@ -2,9 +2,8 @@
 
 ## Superconductivity Research
 
-
-The goal of my Master's thesis was to discover a new class of superconducting material. We showed that it's easier to create the conditions for superconductivity in rotationally symmetric materials than in arbitrary materials. 
-Here are some of the materials I studied (drawn in Reciprocal Space).
+This repository demonstrates a new possible class of superconducting material. We show that it's easier to create the conditions for superconductivity in rotationally symmetric materials than in arbitrary materials. 
+Here are some rotationally symmetric materials (drawn in Reciprocal Space).
 
 <p align="center">
 <img src="/images/2.png" alt="4 fold mat" width="250"/>
@@ -14,7 +13,7 @@ Here are some of the materials I studied (drawn in Reciprocal Space).
 
 
 
-We found that by tuning the strength of the potential, you can create spikes in the density of states (or "DOS" as shown in the plots below). This can lead to instabilities in the material, including superconductivity. Here are some of the simulations I created.
+By tuning the strength of the potential, you can create spikes in the density of states (or "DOS" as shown in the plots below). This can lead to instabilities in the material, including superconductivity. Here are some of the simulations in this repository.
 
 <p align="center">
 <img src="/images/5.png" alt="4 fold band" width="400"/>
@@ -29,4 +28,5 @@ You can accurately calculate the Energy Spectrum of the material by using Pertur
 <img src="/images/12.png" alt="matrices" width="500"/>
 </p>
 
+This is evidence that rotationally symmetric materials might be good superconductors, but it takes a lot of work to actually create the material and verify this. 
 
