@@ -3,7 +3,7 @@
 ## Superconductivity Research
 
 This repository demonstrates a new possible class of superconducting material. We show that it's easier to create the conditions for superconductivity in rotationally symmetric materials than in arbitrary materials (topological insulators).
-Here are some rotationally symmetric materials (drawn in Reciprocal Space).
+Here are some rotationally symmetric materials, drawn in Reciprocal Space.
 
 <p align="center">
 <img src="/images/2.png" alt="4 fold mat" width="250"/>
