@@ -2,7 +2,7 @@
 
 ## Superconductivity Research
 
-This repository demonstrates a new possible class of superconducting material. We show that it's easier to create the conditions for superconductivity in rotationally symmetric materials than in arbitrary materials (topological insulators).
+In this repository, we use computational methods to show that rotationally symmetric materials (topological insulators) can more easily create the conditions for superconductivity than arbitrary materials.
 Here are some rotationally symmetric materials, drawn in Reciprocal Space.
 
 <p align="center">
@@ -13,7 +13,7 @@ Here are some rotationally symmetric materials, drawn in Reciprocal Space.
 
 
 
-By tuning the material, you can create spikes in the density of states (or "DOS" as shown in the plots below). This can lead to instabilities in the material, including superconductivity. Here are some of the simulations in this repository.
+We show that one can create spikes in the density of states (DOS) by simply tuning the potential strength of the material. This can lead to instabilities in the material, including superconductivity. Here are some of the simulations in this repository.
 
 <p align="center">
 <img src="/images/5.png" alt="4 fold band" width="400"/>
@@ -22,11 +22,11 @@ By tuning the material, you can create spikes in the density of states (or "DOS"
 </p>
 
 
-You can accurately calculate the Energy Spectrum of the material by using Perturbation Theory. Here's a diagram of some of the resulting matrices:
+We accurately calculate the Energy Spectrum of the material by using Perturbation Theory. Here are some of the resulting matrices:
 
 <p align="center">
 <img src="/images/12.png" alt="matrices" width="500"/>
 </p>
 
-These calculations give evidence that rotationally symmetric materials might make good superconductors, but it would take a lot of work to actually grow the material and verify this. 
+Although rotationally symmetric Topological Insulators might make good superconductors, they are experimentally difficult to grow. 
 
