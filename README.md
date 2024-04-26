@@ -13,7 +13,7 @@ Here are some rotationally symmetric materials, drawn in Reciprocal Space.
 
 
 
-We show that one can create spikes in the density of states (DOS) by simply tuning the potential strength of the material. This can lead to instabilities in the material, including superconductivity. Here are some of the simulations in this repository.
+We show that one can create spikes in the density of states (DOS) by simply tuning the strength of the superpotential. This can lead to instabilities in the material, including superconductivity. Here are some of the simulations in this repository.
 
 <p align="center">
 <img src="/images/5.png" alt="4 fold band" width="400"/>
