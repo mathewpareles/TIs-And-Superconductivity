@@ -28,5 +28,5 @@ We accurately calculate the Energy Spectrum of the material by using Perturbatio
 <img src="/images/12.png" alt="matrices" width="500"/>
 </p>
 
-Although rotationally symmetric Topological Insulators might make good superconductors, they are experimentally difficult to grow. 
+
 
